@@ -3,7 +3,7 @@ Contains eGizmo boards/kits (.fzpz) for Fritzing and Previous Installer of fritz
 
 ### Read First:
 Unfortunately, the file size is about 179MB and it cannot upload in this repo. 
-Try to download here: https://we.tl/t-mGE0iN805a
+Try to download here: https://e-gizmo.net/oc/kits%20documents/fritzing.0.9.3b.32.pc-clean.zip
 
 Visit our Blog on how to import .fzp files or add gizduino boards.
 https://www.e-gizmo.net/oc/index.php?route=journal3/blog/post&journal_blog_post_id=64
